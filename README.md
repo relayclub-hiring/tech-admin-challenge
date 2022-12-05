@@ -48,4 +48,9 @@ Your work as a Technical Team Administrator will require some low-visibility wor
 ### How to submit your work
 We've invited you to this private GitHub repo where you can submit your work. If you've never used GitHub, we expect you to figure out how to edit this `README.md` file. Hint: There is a pencil icon somewhere near the top of this page. When you are done editing and ready to submit, click the button "Commit changes."
 
+You can use [Markdown](https://www.markdownguide.org/) to format your report.
+
 After you submitt your work sample, send an email to let us know that you're done. We do reviews in batches 1-2 times a week. You'll hear back from us in a few days. If you don't hear from us after we said you would, poke us for an update. That shouldn't happen, but if it does it means we screwed something up and missed you. We will never ghost you.
+
+### Add your work below this line
+---
