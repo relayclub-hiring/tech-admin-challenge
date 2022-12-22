@@ -42,6 +42,7 @@ We don't want you to recommend any of these tools. Instead, we want you to resea
 ### Our needs
 We don't expect you to do a complete evaluation of each tool in the 2 hours you work on this project. But keep our requirements in mind as you consider whether each tool is worth a deeper look.
 - The tool will be used by our COO and our CTO, not just our engineers.
+- We want a tool that will help our team get to know product management documents and processes.
 - We need see all projects at a glance, with current status, plus a priority such as "current," "planned," or "backlog," plus the names of the team members assigned to a project.
 - We want to see a timeline or roadmap of projects.
 - The product should provide a structured template to help us write "product requirement documents" for each project.
