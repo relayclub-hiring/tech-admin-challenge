@@ -32,6 +32,11 @@ You might also have used specialized issue tracking tools for software engineeri
 We don't want you to recommend any of these tools. Instead, we want you to research a relatively new group of SaaS tools called product management tools. Expert product managers have developed these tools so beginners will be successful with product management. We think one of these tools might be helpful in product planning at Relay.club. But which one?
 
 ### What we want from you
+
+#### Step One
+- Review the work sample instructions (here) and email us a list of any questions you have. Asking questions is important! We don't want you to guess at what you need to do. If anything is unclear, or you need additional information or instructions, ask us!
+
+#### Step two
 - Use ChatGPT to learn about the difference between product management tools and project management tools. Show us the questions you ask ChatGPT and summarize what you find out in one paragraph.
 - Use ChatGPT to get a list of the features of product management tools. Show us the questions you ask ChatGPT and summarize what you learn in one paragraph.
 - Use Google to get a list of product management tools. Show us the search terms you use and give us a list of product management tools you've found using Google. Try to be comprehensive.
