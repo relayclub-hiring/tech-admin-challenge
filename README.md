@@ -15,6 +15,8 @@ Here's how we will evaluate your work:
 - Free ChatGPT account at https://chat.openai.com/chat
 - Google
 
+For candidates in China, you will need a US phone number to sign up for ChatGPT. Be resourceful! Or reach out to us to ask to use one of our US numbers.
+
 ### Why we ask you to do this
 As a Technical Team Administrator, you will be responsible for some low-visibility tasks, such as maintaining a list of all the vendors and services we use. Other tasks will be more visible, such as gathering status reports and reporting progress to our founders. But your greatest long-term and strategic impact will involve research and assessments for technology and services, just like this work sample. We want to see how you do. Good luck and have fun!
 
