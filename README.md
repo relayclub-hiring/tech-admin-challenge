@@ -31,7 +31,7 @@ You might also have used specialized issue tracking tools for software engineeri
 - Pivotal Tracker
 - Shortcut
 
-We don't want you to recommend any of these tools. Instead, we want you to research a relatively new group of SaaS tools called product management tools. Expert product managers have developed these tools so beginners will be successful with product management. We think one of these tools might be helpful in product planning at Relay.club. But which one?
+We don't want you to recommend any of these tools for project management or issue tracking. Instead, we want you to research a relatively new group of SaaS tools called product management tools. Expert product managers have developed these tools so beginners will be successful with product management. We think one of these tools might be helpful in product planning at Relay.club. But which one?
 
 ### What we want from you
 
